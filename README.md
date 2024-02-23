@@ -17,3 +17,7 @@ The application can be used within any browser. Once opened click on the red "Ge
 
 ![alt text= Before pressing](<Assets/Images/Before Pressing.png>)
 ![alt text= Generated password](<Assets/Images/Generated Password.png>)
+
+## Licence
+
+Refer to GitHub MIT License.

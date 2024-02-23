@@ -1,4 +1,4 @@
-# Random Passcode Generator
+# Random Passcode Generator (https://rmolu11.github.io/mini_project_random_password_generator/)
 ## Description
 A small random passcode generator that prompts the user to enter the following information: 
     - The number of characters they want in their passcode
@@ -21,3 +21,4 @@ The application can be used within any browser. Once opened click on the red "Ge
 ## Licence
 
 Refer to GitHub MIT License.
+

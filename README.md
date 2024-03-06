@@ -1,4 +1,4 @@
-# Random Passcode Generator (https://rmolu11.github.io/mini_project_random_password_generator/)
+# Random Password Generator (https://rmolu11.github.io/mini_project_random_password_generator/)
 ## Description
 A small random passcode generator that prompts the user to enter the following information: 
     - The number of characters they want in their passcode
